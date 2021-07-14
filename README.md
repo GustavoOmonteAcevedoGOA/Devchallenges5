@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">FrontendStore</h1>
+<h1 align="center">My Gallery</h1>
 
 <div align="center">
    Second template made with HTML, CSS and JS
